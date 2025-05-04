@@ -1,0 +1,8 @@
+count=0
+niit=0
+print("odriin toog oruulna uu?")
+nday=(INT(INPUT())
+niit=niit+1
+print("neg ondogoo hezee zarah ve?")
+price=int(inpu())
+print(f"{nday} odriin daraa {niit} ondogtei bolno uuniigee zarval {niit*price} togrog olno")
